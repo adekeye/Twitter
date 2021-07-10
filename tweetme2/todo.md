@@ -3,7 +3,7 @@
     -> Login
     -> Logout
     -> Profile
-        ->Image
+        ->Image - Media storage server
         ->Text
         -> Follow Button
    -. FEED
