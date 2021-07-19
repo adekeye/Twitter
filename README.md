@@ -1,3 +1,3 @@
 # Twitter
-A replica of twitter with python and django
-Initial stages
+A replica of twitter with python and django : Attempt
+
